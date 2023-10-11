@@ -6,7 +6,7 @@ import Register from './Components/Register/Register'
 import {
   createBrowserRouter,
   RouterProvider
-}   from 'react-router-dom'
+} from 'react-router-dom'
 
 const router = createBrowserRouter([
   {
